@@ -16,8 +16,8 @@ Bounty program will run for 2 weeks
 
 ## How can I participate?
 
-By signing up through the Typeform provided
-https://7p712r2fvv9.typeform.com/to/lkVLiD3T  
+It's is open to everyone, you just have to raise an issue at https://github.com/argoapp-live/argo-bounty-issue
+and submit the issue URL in the gitcoin
 
 ## When will I start finding the bugs?
 
