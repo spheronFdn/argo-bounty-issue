@@ -10,9 +10,6 @@
  </p>
 </p>
 
-## How many days it will run?
-
-Bounty program will run for 2 weeks 
 
 ## How can I participate?
 
